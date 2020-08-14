@@ -1,0 +1,5 @@
+steps:
+- name: 'klakegg/hugo'
+  args: []
+- name: 'klakegg/hugo'
+  args: ['deploy']
