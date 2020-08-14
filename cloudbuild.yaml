@@ -1,5 +1,5 @@
 steps:
-- name: 'klakegg/hugo'
+- name: 'klakegg/hugo:latest-ext'
   args: []
-- name: 'klakegg/hugo'
+- name: 'klakegg/hugo:latest-ext'
   args: ['deploy']
